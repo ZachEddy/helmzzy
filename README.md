@@ -8,14 +8,13 @@ Helmzzy is a simple command-line tool that makes it easier to manage Helm releas
 
 Revert to an earlier release _nanoseconds_ faster!
 
-[![asciicast](https://asciinema.org/a/215012.svg)](https://asciinema.org/a/215012)
+![https://asciinema.org/a/215012](https://i.imgur.com/h6nbTkv.gif)
 
 ### Delete Releases
 
 Remove `whispering-frog` or `belching-goose` in record time!
 
-[![asciicast](https://asciinema.org/a/5rCLM1AwjPG8yqojQNPAZnTzI.svg)](https://asciinema.org/a/5rCLM1AwjPG8yqojQNPAZnTzI)
-
+![https://asciinema.org/a/215017](https://imgur.com/Lt1gqQx.gif)
 
 ## Prerequisites
 
